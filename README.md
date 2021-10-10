@@ -2,11 +2,11 @@
 ### Hi there 👋, I am Carlos.
 ## I'm a Systems Engineer!
 
-- 💻 I’m currently working as a software developer.
-- 🛠 I have experience in software design and development.
+- 🛠 I’m currently working as a software developer.
+- 💻📱 I have experience in web and mobile software development.
 - 🎯 Life goals: Learn something new every day.
 
-### Explore my portfolio or Linkedin:
+### Explore my portfolio & Linkedin:
 
 [<img align="left" alt="Portfolio" width="90px" src="img/logo.png" />][portfolio]
 [<img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />][linkedin]
