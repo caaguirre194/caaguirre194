@@ -26,4 +26,4 @@
 
 
 [portfolio]: https://www.carlosaguirre.tech/
-[linkedin]: linkedin.com/in/carlos-andrés-aguirre-cañas-33612b134
+[linkedin]: https://www.linkedin.com/in/carlos-andr%C3%A9s-aguirre-ca%C3%B1as-33612b134/
