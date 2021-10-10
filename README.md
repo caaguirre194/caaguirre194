@@ -1,5 +1,5 @@
 
-### Hi there 👋, I am Carlos 👻
+### Hi there 👋, I'm Carlos 👻
 ## I'm a Systems Engineer!
 
 - 🛠 I’m currently working as a software developer.
