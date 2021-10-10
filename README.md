@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**caaguirre194/caaguirre194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I am Carlos.
+## I'm a Systems Engineer!
 
-Here are some ideas to get you started:
+- 💻 I’m currently working as a software developer.
+- 🛠 I have experience in software design and development.
+- 🎯 Life goals: Learn something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Explore my portfolio or Linkedin:
+
+[<img align="left" alt="Portfolio" width="90px" src="img/logo.png" />][portfolio]
+[<img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />][linkedin]
+
+<br />
+
+### Technologies:
+
+<img align="left" alt="Angular" width="40px" src="img/angular.svg" />
+<img align="left" alt="React" width="40px" src="img/react.svg" />
+<img align="left" alt="Ionic" width="40px" src="img/ionic.svg" />
+<img align="left" alt="Java" width="40px" src="img/java.svg" />
+<img align="left" alt="Node.js" width="40px" src="img/nodejs.svg" />
+
+<br />
+<br />
+
+
+[portfolio]: https://www.carlosaguirre.tech/
+[linkedin]: linkedin.com/in/carlos-andrés-aguirre-cañas-33612b134
