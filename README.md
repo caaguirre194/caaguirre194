@@ -25,5 +25,5 @@
 <br />
 
 
-[portfolio]: https://www.carlosaguirre.tech/
+[portfolio]: https://www.carlosaguirre.co/
 [linkedin]: https://www.linkedin.com/in/carlos-andr%C3%A9s-aguirre-ca%C3%B1as-33612b134/
